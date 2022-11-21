@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tic0321
-- 👀 I’m interested in programing and webbsides.
-- 🌱 I’m currently learning sige in webbside
-- 💞️ I’m looking to collaborate on it.
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning RasberryPi 4B and HomeAutomation.
+- 💞️ I’m looking learn more.
 - 📫 To reach me, tic@biol.se
 
 <!---
