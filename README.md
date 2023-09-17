@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tic0321
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning RasberryPi 4B and HomeAutomation.
+- 👀 I’m interested in programing Fhem.
+- 🌱 I’m currently learning RasberryPi 4B and Fhem.
 - 💞️ I’m looking learn more.
 - 📫 To reach me, tic@biol.se
 
