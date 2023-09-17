@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tic0321
 - 👀 I’m interested in programing Fhem.
-- 🌱 I’m currently learning RasberryPi 4B and Fhem.
-- 💞️ I’m looking learn more.
+- 🌱 I’m currently learning RasberryP and Fhem.
+- 💞️ I’m looking for learning more about Fhem.
 - 📫 To reach me, tic@biol.se
 
 <!---
